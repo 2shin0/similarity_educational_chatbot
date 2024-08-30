@@ -14,12 +14,13 @@
 모델마다 아키텍쳐와 사전 학습시킨 훈련 데이터가 다르기 때문에 나의 목적에 따라 적합한 모델이 달라질 수 있습니다. 따라서 원하는 도메인 또는 서비스에서 좋은 성능을 보이는 모델을 선택해야 합니다.
 
 ## ✅ 실습1 : Huggingface의 사전 학습된 임베딩 모델로 유사도 기반 챗봇 만들어 보기
-[실습1 코드](https://github.com/2shin0/similarity_educational_chatbot/blob/main/BM25_Embedding_chat.ipynb)
+[실습1 코드](https://github.com/2shin0/similarity_educational_chatbot/blob/main/embedding_chat.ipynb) <br>
 활동 1. 알맞은 형식으로 데이터셋 생성 <br>
 활동 2. 적합한 모델을 선택하여 유사도 계산 함수 생성 <br>
 활동 3. Gradio로 간단한 챗봇 구현
 
 ## ✅ 실습2 : BM25 + Embedding 앙상블 모델로 유사도 기반 챗봇 만들어 보기
+[실습2 코드](https://github.com/2shin0/similarity_educational_chatbot/blob/main/BM25_Embedding_chat.ipynb) <br>
 활동 1. BM25와 Embedding 모델 각각 답변 확인 <br>
 활동 2. 앙상블 모델 생성 <br>
 활동 3. Gradio로 간단한 챗봇 구현
