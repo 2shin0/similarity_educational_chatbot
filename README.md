@@ -24,3 +24,8 @@
 활동 1. BM25와 Embedding 모델 각각 답변 확인 <br>
 활동 2. 앙상블 모델 생성 <br>
 활동 3. Gradio로 간단한 챗봇 구현
+
+## ✅ 실습3 : BM25 + Faiss 앙상블 모델로 유사도 기반 챗봇 만들어 보기
+[실습3 코드](https://github.com/2shin0/similarity_educational_chatbot/blob/main/3_BM25_Faiss_chat.ipynb) <br>
+활동 1. BM25와 Faiss 각각 답변 확인 <br>
+활동 2. 앙상블 모델 생성 
